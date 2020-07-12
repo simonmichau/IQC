@@ -1,2 +1,2 @@
 # IQC (Image quantizer colorized)
-Programm designed for Proseminar Datenkompression SS20 at RWTH Aachen University
+Scalar Image Quantizer designed for Proseminar Datenkompression SS20 at RWTH Aachen University
