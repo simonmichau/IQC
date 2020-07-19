@@ -13,7 +13,7 @@ import java.util.Objects;
 
 
 public class Main {
-
+    //Codevectors=intervals^3
     static int intervalSize = 16;
     static int BIT = (int)(Math.log(Math.pow(256.0/intervalSize, 3))/Math.log(2.0));
     static int intervals = (256/intervalSize);
